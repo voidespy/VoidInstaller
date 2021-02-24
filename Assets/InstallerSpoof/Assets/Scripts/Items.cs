@@ -9,6 +9,7 @@ public class Items : MonoBehaviour
     public int itemID;
     public Sprite itemIcon;
 
+    // Was going to implement something with this, but not with this project. The idea was to click boxes until they break and it would have an object inside. The item type would then be sold for Amagus on a type of "black market".
     public enum ItemType
     {
         None,
