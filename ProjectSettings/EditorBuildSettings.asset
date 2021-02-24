@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/InstallerSpoof/Assets/Scenes/VOIDINSTALLER.unity
+    guid: 0be643d9b1ceac64e8b104f80e535ccf
+  - enabled: 1
+    path: Assets/InstallerSpoof/Assets/Scenes/01.unity
+    guid: 24ea51ba970b68c479c9427f1270676a
+  - enabled: 1
+    path: Assets/InstallerSpoof/Assets/Scenes/Death01.unity
+    guid: 828ddb26f915ced49b7d174e24a9dbd5
+  - enabled: 1
+    path: Assets/InstallerSpoof/Assets/Scenes/Death02.unity
+    guid: 217ad15d5d7839448b8273d58203fd44
+  - enabled: 1
+    path: Assets/InstallerSpoof/Assets/Scenes/Credits.unity
+    guid: b4835ab67b4b1454c8f5e849a05f5a6c
+  m_configObjects: {}
